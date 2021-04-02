@@ -2,7 +2,7 @@
 React Native Animation Challenge inspired by https://dribbble.com/shots/5935613-Marvel-Movies-Interaction
 
 
-![](https://user-images.githubusercontent.com/4265163/113427281-5d083e00-939a-11eb-833b-159240605594.mp4)
+![](https://media2.giphy.com/media/nHZEuysDWuBtr2QKAS/giphy.gif)
 
 
 Uses:
